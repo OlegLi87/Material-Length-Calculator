@@ -1,0 +1,12 @@
+C:\Users\micro\Desktop\Pronat_Tools_Kit\ToolsKit\bin\Debug\ToolsKit.exe.config
+C:\Users\micro\Desktop\Pronat_Tools_Kit\ToolsKit\bin\Debug\ToolsKit.exe
+C:\Users\micro\Desktop\Pronat_Tools_Kit\ToolsKit\bin\Debug\ToolsKit.pdb
+C:\Users\micro\Desktop\Pronat_Tools_Kit\ToolsKit\obj\Debug\ToolsKit.Properties.Resources.resources
+C:\Users\micro\Desktop\Pronat_Tools_Kit\ToolsKit\obj\Debug\ToolsKit.csproj.GenerateResource.Cache
+C:\Users\micro\Desktop\Pronat_Tools_Kit\ToolsKit\obj\Debug\ToolsKit.exe
+C:\Users\micro\Desktop\Pronat_Tools_Kit\ToolsKit\obj\Debug\ToolsKit.pdb
+C:\Users\micro\Desktop\Pronat_Tools_Kit\ToolsKit\obj\Debug\ToolsKit.frmMain.resources
+C:\Users\micro\Desktop\Pronat_Tools_Kit\ToolsKit\obj\Debug\ToolsKit.MaterialLengthCalculator.resources
+C:\Users\micro\Desktop\Pronat_Tools_Kit\ToolsKit\obj\Debug\ToolsKit.JobSendingTracer.resources
+C:\Users\micro\Desktop\Pronat_Tools_Kit\ToolsKit\obj\Debug\ToolsKit.ExitPopUpWindow.resources
+C:\Users\micro\Desktop\Pronat_Tools_Kit\ToolsKit\obj\Debug\ToolsKit.IterationForm.resources
